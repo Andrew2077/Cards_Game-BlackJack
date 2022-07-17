@@ -60,7 +60,7 @@ ___
 1. First you have to press the *Start Game* button to start. 
    ![pic1](BlackJack-Starts.png)
 2. getting a blackjack on start of the game automatically wins the game, then you are forced to Restart or Close the game.
- ![pic2](player_getting_blackjack.png)
+ ![pic2](player_getting_blackJack.png)
 4. to Hit cards you have to press the **Hit** button.
 5. to stand you have to press the **Stand** button.
 6. once the player stands the stand button will change to **Dealer Stand**.  
