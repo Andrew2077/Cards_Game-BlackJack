@@ -327,7 +327,7 @@ class Cards_war(QMainWindow):
         self.dealer_points_label.setText(
             f"Dealer points : {self.dealer_score}")
         self.check_dealer_score()
-
+         
     def hit_button_clicked(self):
         # *player 1 on first hit, uncover dealer card
         if self.Is_player_turn:
